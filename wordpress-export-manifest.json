@@ -1,55 +1,70 @@
 {
-  "schema_version": "0.2-pilot",
-  "generated_at": "2026-10-18T01:05:00+02:00",
+  "schema_version": "0.3-full-mirror-pilot",
+  "generated_at": "2026-10-18T03:29:42.686+02:00",
   "source_repository": "deepethics/ACCM-Deep-Ethics-Project",
   "source_branch": "main",
   "source_commit": "3eaa6a308805e7fbcfe558938c1eea85a8c51f69",
   "export_branch": "main",
   "export_folder": "wordpress-export",
-  "purpose": "Five-page Git it Write draft-only transport and rendering pilot in the dedicated WordPress mirror repository",
+  "purpose": "Five-page full-content Git it Write draft-only transport and rendering pilot in the dedicated WordPress mirror repository",
+  "normalization": [
+    "Replace source Jekyll front matter with Git it Write front matter",
+    "Expand Jekyll relative_url expressions",
+    "Inline README.md in the About page"
+  ],
   "items": [
     {
       "slug": "about",
       "source_path": "about-site.md",
+      "source_blob_sha": "a09e54844ceb8e1dfa44a8103ccbf9223adfecba",
       "export_path": "wordpress-export/about.md",
+      "export_blob_sha": "3f6b14115ad94216bb7efe8542211dacc48a2ddf",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/",
-      "transformation_type": "topological-summary",
+      "transformation_type": "full-normalized",
       "lifecycle_status": "pilot-review-required",
       "wordpress_status": "draft"
     },
     {
       "slug": "for-who",
       "source_path": "for-who.md",
+      "source_blob_sha": "364ff8bd2fefb148da7df4b27ec3c6dd83425821",
       "export_path": "wordpress-export/for-who.md",
+      "export_blob_sha": "e552f90fe174d22e28f7d0b4290d2f8430810892",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/",
-      "transformation_type": "topological-summary",
+      "transformation_type": "full-normalized",
       "lifecycle_status": "pilot-review-required",
       "wordpress_status": "draft"
     },
     {
       "slug": "ten-plus-one",
       "source_path": "NETWORK/ten-plus-one.md",
+      "source_blob_sha": "bd7bad62dd9f90300c6dfc70d987bb1703d2edb8",
       "export_path": "wordpress-export/ten-plus-one.md",
+      "export_blob_sha": "cebcb5c804bf747eb3a502c3868586f499d9659b",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/",
-      "transformation_type": "topological-summary",
+      "transformation_type": "full-normalized",
       "lifecycle_status": "pilot-review-required",
       "wordpress_status": "draft"
     },
     {
       "slug": "16-anchor-ethics",
       "source_path": "NETWORK/16-anchor-ethics.md",
+      "source_blob_sha": "88a2f3b331c222c6bb02bd2419335a2f700282ea",
       "export_path": "wordpress-export/16-anchor-ethics.md",
+      "export_blob_sha": "8ad539e6cf31678197dabfc3b5ab47eaf23c52b8",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/",
-      "transformation_type": "topological-summary",
+      "transformation_type": "full-normalized",
       "lifecycle_status": "pilot-review-required",
       "wordpress_status": "draft"
     },
     {
       "slug": "beta-paper-v3b",
       "source_path": "BETA-PAPER-V3B/index.md",
+      "source_blob_sha": "aa16ef45ec023cec60fd6d1c70fcb29e69e940fc",
       "export_path": "wordpress-export/beta-paper-v3b.md",
+      "export_blob_sha": "c6e46233b01f6357f6d57e68dfe4d1bca58266ec",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/",
-      "transformation_type": "topological-summary",
+      "transformation_type": "full-normalized",
       "lifecycle_status": "pilot-review-required",
       "wordpress_status": "draft"
     }
