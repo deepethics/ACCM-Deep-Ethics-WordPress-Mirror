@@ -1,12 +1,12 @@
 # ACCM Deep Ethics WordPress Mirror
 
-WordPress-ready mirror snapshots of selected **ACCM Deep Ethics Project** pages, generated for [deepethics.nl](https://deepethics.nl/) recovery and public continuity.
+WordPress-ready full-content mirror snapshots of selected **ACCM Deep Ethics Project** pages, generated for [deepethics.nl](https://deepethics.nl/) recovery and public continuity.
 
 ## Status
 
-**Draft pilot — five pages only.**
+**Draft pilot — five complete pages only.**
 
-The files in `wordpress-export/` are deliberately marked `post_status: draft`. They test Git it Write transport, Markdown conversion, links, front matter, and WordPress rendering without replacing the existing published summaries.
+The files in `wordpress-export/` are marked `post_status: draft`. They test Git it Write transport, Markdown conversion, long-page handling, links, front matter, and WordPress rendering before the mirror expands to the complete public-page set.
 
 ## Source and authority
 
@@ -16,17 +16,19 @@ The files in `wordpress-export/` are deliberately marked `post_status: draft`. T
 - Transport folder: `wordpress-export/`
 - Manifest: `wordpress-export-manifest.json`
 
-GitHub project pages remain the actively edited source. This repository holds derived WordPress-ready representations and their provenance. Editing a generated export directly can create divergence and should be followed by regeneration or an explicit correction record.
+The ACCM Deep Ethics Project repository remains the actively edited canonical source. This repository holds complete, WordPress-ready snapshots with source provenance. Editing an export directly can create divergence and should be followed by regeneration or an explicit correction record.
 
 ## Pilot files
 
-- About
-- For Who?
-- 10+1 Baseline
+- About the ACCM Deep Ethics Project
+- For who?
+- 10+1 Metaflux — Mutual Correction
 - 16 Anchor Ethics
-- Beta Paper V03b
+- Potential Science Paper Candidate Draft — V03b
 
-Each pilot file is a bounded Topologetic orientation summary. The later recovery build may add a normalized full-page snapshot beneath that summary so deepethics.nl remains readable when the canonical publication surface is unavailable.
+Each pilot file carries the complete source-page body. Jekyll front matter is replaced with Git it Write front matter, Jekyll `relative_url` expressions are expanded into public URLs, and source provenance is retained. The About page inlines the complete README that its Jekyll page includes.
+
+These are **full normalized mirrors**, not summaries.
 
 ## Intended Git it Write settings for the pilot
 
@@ -34,16 +36,16 @@ Each pilot file is a bounded Topologetic orientation summary. The later recovery
 - Repository: `ACCM-Deep-Ethics-WordPress-Mirror`
 - Branch: `main`
 - Folder: `wordpress-export`
-- Post type: `page` during the isolated draft pilot
+- Post type: `page`
 - Author: the designated project administrator
 - Content template: `%%content%%`
-- First operation: **Pull only changes**
+- Update operation: **Pull only changes**
 
-Do not configure automatic webhooks until the manual five-page draft pull has been inspected successfully.
+Automatic webhooks remain disabled until the manual five-page draft update has been inspected successfully.
 
 ## Publication rule
 
-A completed synchronization is an execution event, not proof that the representation remained faithful. Check titles, status, slugs, links, images, attribution, qualifiers, correction routes, and the Git it Write log after every new transformation path.
+A completed synchronization is an execution event, not proof that the representation remained faithful. Check titles, status, slugs, complete-section survival, links, images, attribution, qualifiers, correction routes, and the Git it Write log after every new transformation path.
 
 ## License status
 
