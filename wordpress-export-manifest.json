@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0-full-public-mirror",
-  "generated_at": "2026-10-18T22:14:43.311063+00:00",
+  "generated_at": "2026-10-18T22:47:07.078604+00:00",
   "source_repository": "deepethics/ACCM-Deep-Ethics-Project",
   "source_branch": "main",
   "source_commit": "fe451c4c64a2f3d822cce7299730bd6c75d34475",
@@ -1240,11 +1240,11 @@
       "wordpress_status": "draft"
     },
     {
-      "slug": "index",
+      "slug": "outnuancing-network",
       "title": "Outnuancing Network",
       "source_path": "NETWORK/index.md",
       "source_blob_sha": "9dac2c30e350ce8f8d5a500d888060c5a0189318",
-      "export_path": "wordpress-export/index.md",
+      "export_path": "wordpress-export/outnuancing-network.md",
       "export_blob_sha": "4e4bbbb34cd2cb3b44b3530f75d295457ca75d54",
       "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/",
       "pdf_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-index.pdf",

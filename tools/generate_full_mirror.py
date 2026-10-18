@@ -66,6 +66,7 @@ def wordpress_slug(public_url: str, source_path: str, used: set[str]) -> str:
         "for-who.md": "for-who",
         "NETWORK/ten-plus-one.md": "ten-plus-one",
         "NETWORK/16-anchor-ethics.md": "16-anchor-ethics",
+        "NETWORK/index.md": "outnuancing-network",
         "BETA-PAPER-V3B/index.md": "beta-paper-v3b",
     }
     base = reserved.get(source_path, base)
