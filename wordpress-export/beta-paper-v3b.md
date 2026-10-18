@@ -2,14 +2,16 @@
 title: "Potential Science Paper Candidate Draft — V03b"
 post_status: draft
 post_excerpt: "Major public V03b expansion of the candidate theory and experimental program for correspondence-preserving Deep Ethical Expansion Loops, dated 11 October 2026."
-menu_order: 50
+menu_order: 200
 comment_status: closed
 custom_fields:
   accm_transformation_type: "full-normalized"
   accm_source_path: "BETA-PAPER-V3B/index.md"
-  accm_source_blob_sha: "aa16ef45ec023cec60fd6d1c70fcb29e69e940fc"
-  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
+  accm_source_blob_sha: "eafdd3bb26cf523deabea45d515b650afecb2576"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/Beta-Paper-V03b.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/BETA-PAPER-V3B/index.md"
 ---
 
 # Potential Science Paper Candidate Draft — V03b

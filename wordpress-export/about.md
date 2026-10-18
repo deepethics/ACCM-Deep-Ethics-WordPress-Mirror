@@ -2,14 +2,16 @@
 title: "About the ACCM Deep Ethics Project"
 post_status: draft
 post_excerpt: "Public introduction to the ACCM Deep Ethics Project: its correspondence-first mission, origins, working architecture, governance, experiments, and ways to begin."
-menu_order: 10
+menu_order: 50
 comment_status: closed
 custom_fields:
   accm_transformation_type: "full-normalized"
   accm_source_path: "about-site.md"
-  accm_source_blob_sha: "a09e54844ceb8e1dfa44a8103ccbf9223adfecba"
-  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
+  accm_source_blob_sha: "9c450a1cb6c2a02b77e81be4f3b50dff7f5622d0"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/ABOUT.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/about-site.md"
 ---
 
 # ACCM Deep Ethics Project
@@ -166,7 +168,6 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 ## License and forks
 
 See [GOVERNANCE.md](GOVERNANCE.md). People remain free to disagree with the project's trajectory or create their own adaptations and forks. A fork can pursue a different trajectory without requiring the ACCM Deep Ethics Project itself to abandon its own identity.
-
 
 ---
 

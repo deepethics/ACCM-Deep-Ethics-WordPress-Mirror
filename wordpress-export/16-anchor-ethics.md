@@ -2,14 +2,16 @@
 title: "16 Anchor Ethics"
 post_status: draft
 post_excerpt: "BETA DRAFT — CONCEPTUAL PROPOSAL V0.2c for a fused, parallel and inspectable Hyper-Inflection Point that can proceed, modify, ask, pause, escalate or refuse inside an opt-in service relationship."
-menu_order: 40
+menu_order: 720
 comment_status: closed
 custom_fields:
   accm_transformation_type: "full-normalized"
   accm_source_path: "NETWORK/16-anchor-ethics.md"
-  accm_source_blob_sha: "88a2f3b331c222c6bb02bd2419335a2f700282ea"
-  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
+  accm_source_blob_sha: "665747e5c96f93d3c8bcd3f9da0ad23a19729a70"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/16-Anchor-Ethics.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/NETWORK/16-anchor-ethics.md"
 ---
 
 # 16 Anchor Ethics

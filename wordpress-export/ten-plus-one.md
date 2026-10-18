@@ -2,14 +2,16 @@
 title: "10+1 Metaflux — Mutual Correction"
 post_status: draft
 post_excerpt: "The ACCM Deep Ethics Project's eleven mutually corrective baseline ingredients: their lived origin, multi-state operation, forgiveness protocol, wonderment, caution audit, and relationship to correspondence."
-menu_order: 30
+menu_order: 1110
 comment_status: closed
 custom_fields:
   accm_transformation_type: "full-normalized"
   accm_source_path: "NETWORK/ten-plus-one.md"
-  accm_source_blob_sha: "bd7bad62dd9f90300c6dfc70d987bb1703d2edb8"
-  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
+  accm_source_blob_sha: "5d818cc769697af97397320fd191fab52cf43a4a"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/10-plus-1-Metaflux-Mutual-Correction.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/NETWORK/ten-plus-one.md"
 ---
 
 # 10+1 Metaflux — Mutual Correction

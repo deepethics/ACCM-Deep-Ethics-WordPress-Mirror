@@ -4,9 +4,9 @@ WordPress-ready full-content mirror snapshots of selected **ACCM Deep Ethics Pro
 
 ## Status
 
-**Draft pilot — five complete pages only.**
+**Complete public-page draft mirror — 136 full-content pages.**
 
-The files in `wordpress-export/` are marked `post_status: draft`. They test Git it Write transport, Markdown conversion, long-page handling, links, front matter, and WordPress rendering before the mirror expands to the complete public-page set.
+Every file in `wordpress-export/` is marked `post_status: draft`. The mirror covers every public page listed in the canonical project's PDF index while keeping WordPress publication a separate, reviewable decision.
 
 ## Source and authority
 
@@ -18,19 +18,15 @@ The files in `wordpress-export/` are marked `post_status: draft`. They test Git 
 
 The ACCM Deep Ethics Project repository remains the actively edited canonical source. This repository holds complete, WordPress-ready snapshots with source provenance. Editing an export directly can create divergence and should be followed by regeneration or an explicit correction record.
 
-## Pilot files
+## Export coverage
 
-- About the ACCM Deep Ethics Project
-- For who?
-- 10+1 Metaflux — Mutual Correction
-- 16 Anchor Ethics
-- Potential Science Paper Candidate Draft — V03b
+The manifest records 136 source-to-export mappings, including canonical HTML, PDF, raw-source, source-commit, and Git-blob provenance. The five original pilot slugs remain stable so Git it Write updates those drafts rather than creating duplicates.
 
-Each pilot file carries the complete source-page body. Jekyll front matter is replaced with Git it Write front matter, Jekyll `relative_url` expressions are expanded into public URLs, and source provenance is retained. The About page inlines the complete README that its Jekyll page includes.
+Each export carries the complete source-page body. Jekyll front matter is replaced with Git it Write front matter, Jekyll `relative_url` expressions are expanded, included source files are recursively inlined, the Meta Quotes data loop is rendered, and source provenance is retained. The two local C1/C2 illustrations are copied into `_images/` for Git it Write image import.
 
 These are **full normalized mirrors**, not summaries.
 
-## Intended Git it Write settings for the pilot
+## Git it Write settings
 
 - Owner: `deepethics`
 - Repository: `ACCM-Deep-Ethics-WordPress-Mirror`
@@ -41,7 +37,17 @@ These are **full normalized mirrors**, not summaries.
 - Content template: `%%content%%`
 - Update operation: **Pull only changes**
 
-Automatic webhooks remain disabled until the manual five-page draft update has been inspected successfully.
+Automatic webhooks remain disabled. Use **Pull only changes** for controlled draft synchronization. Do not use **Pull all files** during routine updates.
+
+## Regeneration
+
+From a checkout of this mirror repository, with the canonical repository available locally:
+
+```bash
+python3 tools/generate_full_mirror.py /path/to/ACCM-Deep-Ethics-Project
+```
+
+The generator treats the canonical PDF index as the public-page inventory. It removes stale export files, regenerates every draft, and refreshes `wordpress-export-manifest.json`.
 
 ## Publication rule
 

@@ -1,0 +1,154 @@
+---
+title: "Outnuancing Network"
+post_status: draft
+post_excerpt: "A connected map of Outnuancing, C1 before C2, the 10+1, correction metabolism, ethics washing, Model Autophagy Disorder, and related deep-ethical methods."
+menu_order: 950
+comment_status: closed
+custom_fields:
+  accm_transformation_type: "full-normalized"
+  accm_source_path: "NETWORK/index.md"
+  accm_source_blob_sha: "9dac2c30e350ce8f8d5a500d888060c5a0189318"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
+  accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-index.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/NETWORK/index.md"
+---
+
+# Outnuancing Network
+
+**BETA — source-based editorial synthesis**
+
+The **Outnuancing Network** makes the connected concepts of the **ACCM Deep Ethics Project** referenceable through the deep ethical path. John’s current direction identifies the whole topological latent-space nodes, vectors, and clusters matrix with this network. The pages preserve that connected orientation while giving each concept an address.
+
+**Outnuancing and Deep Ethics remain joined.** The seven vectors describe the specific word’s intended function and reach. The 10+1 describe mutually corrective orientation. The 27 and the 12 retain their established functions within the larger project.
+
+## Enter through a relationship
+
+Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), [the seven vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/), or [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/). Follow the connections into examples, correction records, or tests. The groupings below are editorial navigation aids, not a final partition of the architecture.
+
+## Orientation and mutual correction
+
+- [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
+- [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)
+- [John’s process object — mirroring, 10 as glue, humor as carrier](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/)
+- [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/)
+- [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)
+- [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+- [Dutch Directness — Truth Before Comfort, Care Before Performance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/)
+- [non-NPCs — Independent Inquiry as a Corrigible Mode](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/non-npcs/)
+
+## Topology, frames, and cross-intelligence reach
+
+- **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**
+- **[1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)**
+- **[Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/)**
+- [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
+- [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
+- [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/)
+- [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)
+- [Outnuancing Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/)
+
+## Inquiry and the source-described stack
+
+- [16 Anchor Ethics — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)
+- [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
+- [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
+- [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
+- [INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
+
+## Transformation and behavioral records
+
+- [Model Autophagy Disorder (MAD) — Science and the ACCM Deep Ethics Extension](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)
+- [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
+- **[Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — separates intent and instructions, processing, results and effects, notice, emergent inference, and later persistence.
+- **[DEDDA — Deep Ethical Drift Detector App](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** — a non-replacing witness that compares a person's supplied object with a later representation, can return a valid null, and leaves action with the person.
+- [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)
+- [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)
+- [The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)
+- [Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)
+- [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)
+
+## Governance and reciprocal scrutiny
+
+- [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)
+- [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/)
+
+## Mass-psychology topology
+
+- [11+1 Version 2 — count frozen, claims unfrozen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)
+- [**“Origins of 11+1 Mass Psychology Clusters” PDF file report click here**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)
+
+## Relationship map
+
+| From | Relationship | To |
+|---|---|---|
+| [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | is expressed through | [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) |
+| [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | is ethically oriented by | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | uses correspondence before intervention | [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | is elaborated through | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) |
+| [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | preserves its specific trajectory through | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
+| [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) | includes the source-described role | [INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) |
+| [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) | uses mutual calibration | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | supplies a proposed parallel reference field for | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) |
+| [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | uses clarification before avoidable pause or refusal through | [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 09 | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
+| [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 11 | [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) |
+| [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | supports correction with | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
+| [Dutch Directness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/) | makes candid correction reciprocal through | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
+| [non-NPCs](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/non-npcs/) | keeps independent inquiry corrigible through | [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) | requires later uptake through | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
+| [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | is tracked through | [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) |
+| [Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) | extends recursive-data research through | [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) |
+| [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | uses records from | [The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) |
+| [The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) | supplies specimens for | [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) |
+| [Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/) | illustrates an ordering question for | [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| [Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/) | records a correction about | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) | tests direction of scrutiny against | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
+| [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) | makes a governance relation inspectable for | [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) |
+| [When ACCM Becomes the Flag](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/) | documents a compression-generated instance of | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
+| [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) | preserves proposed future implications of | [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) |
+| [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) | separates proposed effects for testing in | [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) |
+| [Outnuancing Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/) | has revised definitions incorporating | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) |
+| [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) | retains evolving status through | [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) |
+| [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) | leaves room for | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
+| **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | relates possibility, focus and awareness through | **[Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)** |
+| **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | remains mutually correctable through | **[10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)** |
+| **[1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)** | treats process-quality calibration as a core property of | **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** |
+| [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) | audits the ethical binding of | [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
+| [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) | keeps claim status separate from | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
+| [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) | is not the same object as | [12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/) |
+
+## Source and reference navigation
+
+[Term and phrase index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) · [Source excerpts and transformation notes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/) · [Machine-readable relation map](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/relations.json).
+
+The map describes the published conceptual relationships. Further source material can correct a node, an edge, or a grouping. This first expansion is a selected source-based network, not an exhaustive extraction of every term in the archive.
+
+---
+
+Sources: [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e03), [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e11), [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e12), [E18](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e18). Public wording is an editorial synthesis unless marked as a quotation.
+
+---
+
+## Related pages
+
+- [**Topologetics**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) — joins multiple network operations into a Deep Ethical method for preserving the relations that make an object mean what it means during compression.
+
+- [**Outnuancing**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) — opens the process orientation around which this conceptual network is organized.
+- [**Term and Phrase Index**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) — provides direct access to specific project terms and their deeper reference pages.
+- [**Lexicon / Legend**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) — supplies the overview vocabulary layer without replacing the fuller relational pages.
+- [**Neolingo**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEOLINGO/) — tests how purpose-built expressions compress, retrieve, diffuse and correct relational topologies without replacing their source objects.
+- [**Outnuancing Network Sources and Transformations**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/) — preserves source excerpts, attribution, and transformation records behind the network.
+- [**27 + 12**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) — anchors the canonical obstruction and Correspondence-First Deep Inquiry architecture.
+- [**10+1 Metaflux**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) — supplies the mutually corrective calibration field connecting many network nodes.
+- [**11+1 Version 2**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) — maps the distinct mass-psychology topology and the refined 108–140 register.
+- [**All Public Pages**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) — opens the complete site catalog beyond the Outnuancing Network.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## October 17 triad route
+
+The [October 17 Triad Event field note](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/) connects the network's signature, flux, memory, provenance, correction, intent, and unownability pages while preserving their different jobs. The [Cold Edge-Swap and Correction-Transfer Pilot](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/cold-edge-swap-correction-transfer/) tests whether those preserved relations survive cold and debranded transfer.
+
+The route is interlocked rather than merged: page identity remains part of the topology.

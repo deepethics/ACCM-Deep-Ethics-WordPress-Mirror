@@ -2,14 +2,16 @@
 title: "For who?"
 post_status: draft
 post_excerpt: "An expanded professional and expertise map for local A.I. grounded in ACCM Deep Ethics Project principles, including Dutch Directness, C1 before C2, healthy uncertainty, the 1888 intelligence-property field, and correction metabolism."
-menu_order: 20
+menu_order: 540
 comment_status: closed
 custom_fields:
   accm_transformation_type: "full-normalized"
   accm_source_path: "for-who.md"
-  accm_source_blob_sha: "364ff8bd2fefb148da7df4b27ec3c6dd83425821"
-  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
+  accm_source_blob_sha: "874725126729be9da96bfe109a348be717041692"
+  accm_source_commit: "fe451c4c64a2f3d822cce7299730bd6c75d34475"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/"
+  accm_pdf_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FOR-WHO.pdf"
+  accm_raw_source_url: "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/for-who.md"
 ---
 
 # Who May Want a Local A.I. Grounded in ACCM Deep Ethics Project Principles?
