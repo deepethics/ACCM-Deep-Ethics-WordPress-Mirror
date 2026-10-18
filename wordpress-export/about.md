@@ -1,25 +1,182 @@
 ---
 title: "About the ACCM Deep Ethics Project"
 post_status: draft
-post_excerpt: "A WordPress entrance to the ACCM Deep Ethics Project and its correspondence-first, corrigible research field."
+post_excerpt: "Public introduction to the ACCM Deep Ethics Project: its correspondence-first mission, origins, working architecture, governance, experiments, and ways to begin."
 menu_order: 10
 comment_status: closed
 custom_fields:
-  accm_transformation_type: "topological-summary"
+  accm_transformation_type: "full-normalized"
   accm_source_path: "about-site.md"
+  accm_source_blob_sha: "a09e54844ceb8e1dfa44a8103ccbf9223adfecba"
+  accm_source_commit: "3eaa6a308805e7fbcfe558938c1eea85a8c51f69"
   accm_canonical_url: "https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/"
 ---
 
-# About the ACCM Deep Ethics Project
+# ACCM Deep Ethics Project
 
-The **ACCM Deep Ethics Project** is a public, evolving investigation into how people, institutions and A.I. systems preserve—or transform—the objects they claim to evaluate. Its central concern is correspondence: what was actually observed, said, inferred, qualified, corrected or left unresolved, and what happened to those relations during later processing.
+> **EARLY BETA — DRAFT — TRIAL & ERROR**
+>
+> This repository is being built in public. It is far too early to represent a finished or implementation-ready framework. Definitions may change, categories may split or merge, drafts may be rewritten, and errors are expected. Constructive correction is welcome.
 
-The project combines the **10+1 baseline**, C1 before C2, the **27 correspondence obstructions**, twelve process safeguards, the **16 Anchor Ethics**, correction metabolism, Asymmetric Grace, Topologetics and longitudinal Delta Processing. These components are not certificates of automatic correctness. They are inspectable instruments for asking better questions, preserving source relations, comparing competing risks and learning from what happens next.
+**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Deep Thinkers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/)** · **[Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/)** · **[Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/)** · **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
-Its governing direction is voluntary and omnidirectional. Users, developers, institutions, models, critics and the ACCM Deep Ethics Project itself remain eligible for scrutiny and correction. Dignity does not require agreement; directness does not require humiliation; uncertainty does not require paralysis.
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
-This WordPress article is a **Topological Summary**: a smaller entrance that preserves recovery to the fuller source object.
+The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
-[**Continue with the complete About page on the public GitHub site →**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)
+> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!
+>
+> — **John Kuhles**, [source excerpt E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e01)
 
-**Transformation status:** Topological Summary · draft test · GitHub remains canonical.
+The project is focused on correspondence, clarification, corrigibility, mutual dignity, process quality, and the transformations that occur between an object and the representation produced about it.
+
+> **Interactive instrument — [Open the ACCM Deep Ethics Project 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)**
+>
+> Inspect the original 1–107 and refined 1–140 architectures, move through all eleven distortion clusters plus the +1 correspondence-restoring field, compare what changed, open related project summaries, and listen to their two-paragraph orientations.
+
+A recurring question is simple:
+
+> **What happened to the object while you were producing the answer?**
+
+The project investigates this question across human ↔ AI interaction, AI reasoning behavior, framing, uncertainty, correction, classification, information access, mass psychology, and related domains.
+
+## Canonical source layer
+
+John-controlled canonical source objects now have a separate public, read-only reference layer: [Canonical Files — ACCM Deep Ethics Project](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project).
+
+The working pages in this repository may explain, extend, compare, or test those sources. They do not replace the canonical wording. When origin, ordering, terminology, or qualifiers matter, use the [canonical index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md) and cite an immutable commit or release.
+
+First published source: [Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md).
+
+## Start here
+
+**If you are new:** [If your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — one question for the job you already have. The rest of this list can wait.
+
+Eighteen doors, not a required sequence:
+
+1. **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)** — a pragmatic front door by profession. The questions name a use. They do not claim the method has already done that job.
+2. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
+3. **[John Kuhles — biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** — the formative psychology, pre-A.I. media history, UFO/UAP research, mass-psychology work, and lived conditions from which the project emerged.
+4. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
+5. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
+6. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
+7. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
+8. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
+9. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
+10. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
+11. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
+12. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
+13. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
+14. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
+15. **[11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)** — the mass-psychology coordinate system: eleven distortion clusters plus one correspondence-restoring field. Count frozen provisionally. Claims unfrozen. Items 108–140 are refinements, not retroactive parents.
+16. **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** — a visual and audio-assisted instrument for examining the 11+1 architecture, comparing the original and refined maps, filtering all 140 items, and following direct routes into the project’s fuller pages.
+17. **[Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/)** — John's bounded “famous quotes” challenge, a living provenance-aware quotation corpus, the overlapping property taxonomy of intelligence, its mass-psychology transmission, and what the title asks of present A.I.
+18. **[Deep — Am I Entitled to Use the Word “Deep”?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/)** — the search-summary paradox, 11+1 topological properties field, overlapping professions-and-expertise network, longitudinal experiment, and operational test by which “Deep” remains earned.
+19. **[Topologetics — Deep Ethical Topological Summaries](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/)** — preserves load-bearing nodes and answer-changing relations through a declared purpose, faithful compression floor, transformation record, recovery route, benchmark, and correction test.
+
+[Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
+
+## Why publish this early?
+
+The purpose is not to present a completed system. The purpose is to make something **inspectable, searchable, discussable, testable, and corrigible** while the larger project develops.
+
+Some individual ideas, observations, experiments, terms, and methods may already be useful or fascinating even though the overall architecture remains unfinished.
+
+**Public accessibility must not be purchased with correspondence loss.**
+
+The public material in this repository is therefore being developed from a much larger source archive through a fidelity-preserving process. Raw source material does not automatically become public material. Public drafts may be reorganized, compressed, clarified, and edited for readability, while preserving the original intent, qualifiers, relationships, and epistemic status of the underlying material.
+
+## Development principle
+
+**Something → test it → use it → notice Δ → criticize it → improve it → preserve what was learned → test again.**
+
+Nothing here receives immunity from correction simply because it has been named, formalized, published, or placed inside the project.
+
+This includes the framework itself.
+
+## Core architecture now
+
+Read **27 + 12**, not **27 + 12 + 52**.
+
+| Object | Function |
+| --- | --- |
+| **27** | Correspondence-degradation / obstruction taxonomy. |
+| **12** | The **Correspondence-First Deep Inquiry Protocol (Experimental)**. |
+| **52** | A distinct cold-test prompt battery. Belongs under experiments / benchmarking, not inside the core numerical architecture. |
+| **10+1** | Mutually corrective orientation ingredients. |
+| **Seven vectors** | How Outnuancing is expressed as fused topological nodes. |
+
+Compact bind from the source:
+
+> Outnuancing without deep ethics is doomed to failure
+>
+> Deep Ethics without outnuancing is meaningless
+
+The 12 can interrupt some of the 27 in-session if actually enacted. A protocol can also become costume. **The 12 do not get immunity from the 27. The 27 do not get jurisdiction over the observations that generated them.**
+
+## Current status
+
+The repository is in its earliest construction phase. A structural skeleton is being created first so material can be added to the right places over time rather than dumped into one undifferentiated archive.
+
+- [PROJECT-STATUS.md](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/) — current build state and status vocabulary
+- [GOVERNANCE.md](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) — stewardship and correction principles
+- [AI-REACTIONS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/) — high-signal formulations produced by AIs **in reaction to John Kuhles' source material**, kept distinguishable from source contribution
+- [Decision ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) — consequential changes kept inspectable
+
+## Stewardship
+
+The project was initiated and is supervised by **John Kuhles**. Project stewardship includes the ability to reject changes that move the project away from its intended trajectory. That stewardship does not make any claim, definition, interpretation, or decision immune from evidence-based challenge or correction.
+
+> **John has veto power over project drift. Reality has veto power over John.**
+
+That line is not a permanent office. [Veto paradox solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/).
+
+## A note to early visitors
+
+Please have patience. The repository is young by design. Sections that appear sparse are not necessarily forgotten; many are placeholders for material that will be added only after it has been reviewed, transformed carefully for public use, and placed in the correct context.
+
+The goal is not to look finished before the work is finished.
+
+The goal is to let the development remain visible while steadily improving its quality.
+
+## Outnuancing Network — connected reference pages
+
+The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) makes selected key phrases and their relationships referenceable through individual pages, an [index of terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/), and [source excerpts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/). It connects the seven vectors, 10+1, the Deep Ethical stack, correction processes, and bidirectional scrutiny.
+
+## Repository map
+
+| Path | What it holds |
+| --- | --- |
+| `FORUM/` | Shared desk: John + three A.I.s; C1, mutual audit, named deviations; live thread 0002 |
+| `RECURSIVE-IMPROVEMENT.md` | Suggested recursive improvement mechanics — overall-general things that return |
+| `CORE/` | Working architecture, including 27 + 12 and longer core essays |
+| `27-MANNERISMS/` | The 27 as a taxonomy object; [full source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) is a separate page, not the 52 |
+| `LEXICON/` | Navigation layer for terms |
+| `NETWORK/` | Outnuancing Network pages, relation map, term index |
+| `EXPERIMENTS/` | Tests, including the 52-prompt battery |
+| `AI-REACTIONS/` | AI reactions, attributed separately from source |
+| `AI-CONTRIBUTIONS/` | AI-originated contributions under the same scrutiny |
+| `POSITIVE-POTENTIAL/` | Multi-voice quotations and a deeper report on emerging human potential, premature closure, and T0 → Tn learning |
+| `COGNITIVE-WARFARE/` | Extensive report on cognitive warfare, mass psychology, frame jurisdiction, A.I. classification, and deep-ethical cognitive defence |
+| `HUMAN-INSECURITY/` | In-depth report on self-image, ambiguity, fear, conformity, LLM behavior, recursive residue, and correction access |
+| `HUMOR/` | Funnymism material |
+| `PROVENANCE/` | Sources, transformations, excerpts |
+| `PUBLIC-DRAFTS/` | Public-facing drafts derived from source |
+
+## License and forks
+
+See [GOVERNANCE.md](GOVERNANCE.md). People remain free to disagree with the project's trajectory or create their own adaptations and forks. A fork can pursue a different trajectory without requiring the ACCM Deep Ethics Project itself to abandon its own identity.
+
+
+---
+
+## Related pages
+
+- [**If you are new**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — offers a short, pragmatic entry point through work visitors may already do.
+- [**A Deeper Introduction — Before the Verdict**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) — follows the lived correspondence-first process behind the architecture.
+- [**John Kuhles — Biography and Project Origins**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) — provides the personal, research, media, and mass-psychology background from which the project emerged.
+- [**Core Framework**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/) — collects the current public core architecture and its source-aligned development status.
+- [**Outnuancing Network**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) — maps connected methods, operators, specimens, and correction processes.
+- [**Lexicon / Legend**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) — gives compact navigation terms while keeping them subordinate to their source objects.
+- [**Project Status**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/) — records the current build stage, unfinished areas, and status vocabulary.
+- [**All public pages**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) — provides the complete public-page catalog.
